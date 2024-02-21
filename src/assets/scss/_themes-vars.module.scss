@@ -1,0 +1,122 @@
+//Light
+$light_pale_background_color: #eef2f6;
+$light_transparent_color: #ffffff;
+$light_background_color: #ffffff;
+$light_sidebar_color: #4b5565;
+$light_primary_text_color: #0000;
+$light_secondary_text_color: #ffffff;
+$warning_light_color: #fff8e1;
+$warning_main_color: #ffe57f;
+$warning_dark_color: #ffc107;
+$error_light_color: #ef9a9a;
+$error_main_color: #f44336;
+$error_dark_color: #c62828;
+$success_light_color: #b9f6ca;
+$success_main_color: #00e676;
+$success_dark_color: #00c853;
+
+//Light Purple Style
+$light_pale_primary_purple_color: #ede7f6;
+$light_primary_purple_color: #673ab7;
+
+//Light Green Style
+$light_pale_primary_green_color: #e9f6e7;
+$light_primary_green_color: #3ab767;
+
+//light Pink Style
+$light_pale_primary_pink_color: #f6e7e9;
+$light_primary_pink_color: #b73a67;
+
+//light Cyan Style
+$light_pale_primary_cyan_color: #e7f6f6;
+$light_primary_cyan_color: #3ab7b7;
+
+//light Red Style
+$light_pale_primary_red_color: #f6dcdc;
+$light_primary_red_color: #b73a3a;
+
+//light Brown Style
+$light_pale_primary_brown_color: #f5edd6;
+$light_primary_brown_color: #786f4a;
+
+//Dark
+// $light_pale_background_color: #212529;
+// $light_transparent_color: #000000;
+// $light_background_color: #181a1b;
+// $light_sidebar_color: #ffffff;
+// $light_primary_text_color: #ffffff;
+// $light_secondary_text_color: #c0c0c0;
+// $warning_light_color: #ff8a5a;
+// $warning_main_color: #ff7043;
+// $warning_dark_color: #c0593d;
+// $error_light_color: #f44336;
+// $error_main_color: #d32f2f;
+// $error_dark_color: #a02020;
+// $success_light_color: #99e9a8;
+// $success_main_color: #4caf50;
+// $success_dark_color: #388e3c;
+// $light_pale_primary_purple_color: #302e3c;
+// $light_primary_purple_color: #9fa8da;
+
+//GREY
+$grey50: #f8fafc;
+$grey100: #eef2f6;
+$grey200: #e3e8ef;
+$grey300: #cdd5df;
+$grey500: #697586;
+$grey600: #4b5565;
+$grey700: #364152;
+$grey900: #121926;
+
+:export {
+  //Light
+  lightPaleBgColor: $light_pale_background_color;
+  lightTransparentColor: $light_transparent_color;
+  lightBackgroundColor: $light_background_color;
+  lightSidebarColor: $light_sidebar_color;
+  lightPrimaryTextColor: $light_primary_text_color;
+  lightSecondaryTextColor: $light_secondary_text_color;
+  lightWarningLightColor: $warning_light_color;
+  lightWarningMainColor: $warning_main_color;
+  lightWarningDarkColor: $warning_dark_color;
+  lightErrorLightColor: $error_light_color;
+  lightErrorMainColor: $error_main_color;
+  lightErrorDarkColor: $error_dark_color;
+  lightSuccessLightColor: $success_light_color;
+  lightSuccessMainColor: $success_main_color;
+  lightSuccessDarkColor: $success_dark_color;
+
+  //Light Purple Style
+  lightPalePurplePrimaryColor: $light_pale_primary_purple_color;
+  lightPurplePrimaryColor: $light_primary_purple_color;
+
+  //Light Green Style
+  lightPalePrimaryGreenColor: $light_pale_primary_green_color;
+  lightPrimaryGreenColor: $light_primary_green_color;
+
+  //Light Pink Style
+  lightPalePrimaryPinkColor: $light_pale_primary_pink_color;
+  lightPrimaryPinkColor: $light_primary_pink_color;
+
+  //Light Cyan Style
+  lightPalePrimaryCyanColor: $light_pale_primary_cyan_color;
+  lightPrimaryCyanColor: $light_primary_cyan_color;
+
+  //Light Red Style
+  lightPalePrimaryRedColor: $light_pale_primary_red_color;
+  lightPrimaryRedColor: $light_primary_red_color;
+
+  //Light Brown Style
+  lightPalePrimaryBrownColor: $light_pale_primary_brown_color;
+  lightPrimaryBrownColor: $light_primary_brown_color;
+
+  //Grey Resuable
+  grey50: $grey50;
+  grey100: $grey100;
+  grey200: $grey200;
+  grey300: $grey300;
+  grey500: $grey500;
+  grey600: $grey600;
+  grey700: $grey700;
+  grey900: $grey900;
+}
